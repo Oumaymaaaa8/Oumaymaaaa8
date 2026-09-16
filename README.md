@@ -82,8 +82,6 @@ A full-stack web application combining a modern frontend with a Java backend and
 * 🗄️ Database migrations with Liquibase
 * 🔄 CI/CD & deployment processes
 
-➡️ **[View Repository](#)**
-
 ---
 
 ### 🔹 IRRIGO — Intelligent Irrigation System
@@ -99,8 +97,6 @@ An IoT-based solution designed to improve irrigation management through connecte
 * 🤖 Intelligent irrigation recommendations
 * 🌦️ Weather prediction integration
 * 🔄 Adaptive irrigation cycles
-
-➡️ **[View Repository](#)**
 
 ---
 
@@ -118,8 +114,6 @@ A web application developed during my Full-Stack internship for managing real-es
 * 📋 Rental management
 * 🔌 REST API
 * 🎨 Vue.js frontend
-
-➡️ **[View Repository](#)**
 
 ---
 
